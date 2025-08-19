@@ -16,28 +16,40 @@ Utiliza-se a base de dados [Pima Indians Diabetes Database](https://www.kaggle.c
 
 ### Guia de compilação e execução
 1. Clone o repositório:
-```git clone https://github.com/Samuel-Salvador/Decision-Tree-Diabetes.git```
+   ```
+   git clone https://github.com/Samuel-Salvador/Decision-Tree-Diabetes.git
+   ```
 
 
 2. Navegue até o diretório do repositório clonado:
-```cd Decision-Tree-Diabetes```
+   ```
+   cd Decision-Tree-Diabetes
+   ```
 
 
 3. Crie um ambiente virtual (opcional, mas recomendado):
-```python -m venv venv```
+   ```
+   python -m venv venv
+   ```
 
 
 4. Ative o ambiente virtual:
 
    - No Windows:
-   ```venv\Scripts\activate```
+      ```
+      ./venv/Scripts/activate
+      ```
    
    - No Linux/Mac:
-   ```source venv/bin/activate```
+      ```
+      source ./venv/bin/activate
+      ```
 
 
 5. Instale as dependências Python:
-```pip install -r requirements.txt```
+   ```
+   pip install -r requirements.txt
+   ```
 
 
 6. Instalação do Graphviz:
@@ -47,7 +59,9 @@ Utiliza-se a base de dados [Pima Indians Diabetes Database](https://www.kaggle.c
 
 
 8. Execute o script principal: 
-```python main.py```
+   ```
+   python main.py
+   ```
 
 <hr>
 
