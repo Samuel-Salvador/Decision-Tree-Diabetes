@@ -1,11 +1,11 @@
 # Decision Tree Classifier - Diabetes Prediction
 
 ### Descrição
-Este projeto implementa a construção e avaliação de uma árvore de decisão utilizando diferentes funções de divisão: Information Gain, Gain Ratio e Gini. O usuário pode escolher qual métrica utilizar para construir a árvore, visualizar o grafo gerado e conferir as métricas de desempenho do modelo.
+Implementação da construção e avaliação de uma árvore de decisão utilizando diferentes funções de divisão: Information Gain, Gain Ratio e Gini. O usuário pode escolher qual métrica utilizar para construir a árvore, visualizar o grafo gerado e conferir as métricas de desempenho do modelo.
 
 ### Base de Dados
 
-Este projeto utiliza a base de dados [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database), composta por informações clínicas de pacientes do grupo indígena Pima, com o objetivo de prever a ocorrência de diabetes. O conjunto possui 768 registros e 8 atributos, incluindo número de gestações, glicose, pressão arterial, espessura da pele, insulina, índice de massa corporal (IMC), função pedigree do diabetes e idade, além da variável alvo indicando a presença ou ausência de diabetes.
+Utiliza-se a base de dados [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database), composta por informações clínicas de pacientes do grupo indígena Pima, com o objetivo de prever a ocorrência de diabetes. O conjunto possui 768 registros e 8 atributos, incluindo número de gestações, glicose, pressão arterial, espessura da pele, insulina, índice de massa corporal (IMC), função pedigree do diabetes e idade, além da variável alvo indicando a presença ou ausência de diabetes.
 
 <hr>
 
