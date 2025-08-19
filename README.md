@@ -1,6 +1,6 @@
 # Decision Tree Classifier - Diabetes Prediction
 
-## Descrição
+### Descrição
 Este projeto implementa a construção e avaliação de uma árvore de decisão utilizando diferentes funções de divisão: Information Gain, Gain Ratio e Gini. O usuário pode escolher qual métrica utilizar para construir a árvore, visualizar o grafo gerado e conferir as métricas de desempenho do modelo.
 
 ### Base de Dados
@@ -9,7 +9,7 @@ Este projeto utiliza a base de dados [Pima Indians Diabetes Database](https://ww
 
 <hr>
 
-## Requisitos
+### Requisitos
  - Python 3.x
  - pip
  - Graphviz (instalação necessária para visualização da árvore de decisão)
